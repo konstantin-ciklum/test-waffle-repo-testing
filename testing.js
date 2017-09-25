@@ -1,3 +1,3 @@
-var text = "Second Story manual";
+var text = "Bugfixing";
 console.log(text);
 
