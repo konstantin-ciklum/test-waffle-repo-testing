@@ -1,3 +1,3 @@
-var text = "Another commit";
+var text = "Second Story manual";
 console.log(text);
 
