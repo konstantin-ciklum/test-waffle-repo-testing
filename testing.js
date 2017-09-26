@@ -1,2 +1,2 @@
-var text = "Lets check connect again";
+var text = "Once more";
 console.log(text);
