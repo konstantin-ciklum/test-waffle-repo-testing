@@ -1,3 +1,2 @@
-var text = "Something wrong with reference";
+var text = "Lets check connect again";
 console.log(text);
-
