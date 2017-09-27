@@ -1,2 +1,2 @@
-var text = "Cross-repo reference check";
+var text = "Cross-repo reference doesnt work";
 console.log(text);
