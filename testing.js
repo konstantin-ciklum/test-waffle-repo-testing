@@ -1,2 +1,2 @@
-var text = "Cross-repo reference doesnt work 2";
+var text = "Waffle testing!";
 console.log(text);
