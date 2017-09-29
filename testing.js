@@ -1,2 +1,2 @@
-var text = "Once more";
+var text = "Waffle testing!";
 console.log(text);
